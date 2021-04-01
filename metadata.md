@@ -2,9 +2,10 @@
 cloud: Experience Cloud
 mini-toc-levels: 2
 git-repo: https://git.corp.adobe.com/AdobeDocs/cxm-learn.zh-Hant
-index: true
+index: false
+hide: true
 translation-type: tm+mt
-source-git-commit: db30b6da6d6225d16914679fa417aaf9ec998d69
+source-git-commit: 099879553b7fbdcfb4d0491f00c23b7e19241998
 workflow-type: tm+mt
 source-wordcount: '130'
 ht-degree: 93%
