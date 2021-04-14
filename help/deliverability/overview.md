@@ -1,17 +1,17 @@
 ---
-title: 可傳遞性
-description: 這是文章概觀。
-keywords: DDOM，傳遞能力
-translation-type: tm+mt
+title: 傳遞能力
+description: 這是文章概覽。
+keywords: DDOM, 傳遞能力
+translation-type: ht
 source-git-commit: add4209576cc04e99ec15e39d40706a852f91af4
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '11'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 
-# 傳遞性概觀
+# 傳遞能力概覽
 
 歡迎。
 
