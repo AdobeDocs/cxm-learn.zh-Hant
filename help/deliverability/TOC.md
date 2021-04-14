@@ -1,19 +1,19 @@
 ---
-user-guide-title: 傳遞性指南
-breadcrumb-title: 傳遞性指南
-user-guide-description: 觀看這些影片，瞭解如何使用Deliverability。
+user-guide-title: 傳遞能力指南
+breadcrumb-title: 傳遞能力指南
+user-guide-description: 觀看影片以了解使用傳遞能力指南的方式。
 solution: Experience Cloud
-type: 教學課程
+type: Tutorial
 hide: true
 translation-type: tm+mt
 source-git-commit: 099879553b7fbdcfb4d0491f00c23b7e19241998
 workflow-type: tm+mt
-source-wordcount: '17'
-ht-degree: 0%
+source-wordcount: '16'
+ht-degree: 100%
 
 ---
 
 
-# 交付能力指南{#deliverability}
+# 傳遞能力指南 {#deliverability}
 
-+ [概觀](overview.md)
++ [概覽](overview.md)
