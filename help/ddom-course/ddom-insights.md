@@ -1,17 +1,17 @@
 ---
-title: DDOM見解與學習
-description: '瞭解DDOM協助Adobe發現的一些見解，並進一步瞭解設定您自己版本的DDOM時需要考慮的事項。 '
-translation-type: tm+mt
+title: DDOM 深入見解與獲益
+description: '聆聽對 Adobe 有所助益的 DDOM 深入見解，藉此發掘並了解在設定您的 DDOM 版本時，所需考慮的事項。 '
+translation-type: ht
 source-git-commit: add4209576cc04e99ec15e39d40706a852f91af4
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '64'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 
-# DDOM見解與學習
+# DDOM 深入見解與獲益
 
-瞭解DDOM協助Adobe發現的一些見解，並進一步瞭解設定您自己版本的DDOM時需要考慮的事項。
+聆聽對 Adobe 有所助益的 DDOM 深入見解，藉此發掘並了解在設定您的 DDOM 版本時，所需考慮的事項。
 
 >[!VIDEO](https://video.tv.adobe.com/v/41693)
