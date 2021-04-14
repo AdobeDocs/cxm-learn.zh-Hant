@@ -1,9 +1,9 @@
 ---
 source-git-commit: ea774529b25ecca51d3eabce9884df283c38fc24
-workflow-type: tm+mt
-translation-type: tm+mt
+workflow-type: ht
+translation-type: ht
 source-wordcount: '296'
-ht-degree: 93%
+ht-degree: 100%
 
 ---
 # 貢獻
@@ -16,9 +16,9 @@ ht-degree: 93%
 
 本專案遵守 Adobe [行為準則](code-of-conduct.md)。參與即表示您應遵守本準則。請向 [Grp-opensourceoffice@adobe.com](mailto:Grp-opensourceoffice@adobe.com) 回報不可接受的行為。
 
-## 投稿人指南檔案
+## 貢獻者指南文件
 
-請參閱[投稿人指南](https://docs.adobe.com/content/help/en/contributor/contributor-guide/introduction.html)。
+檢視[貢獻者指南](https://docs.adobe.com/content/help/zh-Hant/contributor/contributor-guide/introduction.html)。
 
 ## 有疑問嗎？
 
@@ -39,8 +39,8 @@ submitting a pull request!
 
 ## 從貢獻者到提交者
 
-我們非常喜歡來自社群的貢獻！如果您不想只擔任貢獻者，而是想成為具備完整寫入存取權和專案發言權的提交者，則必須獲邀加入專案。現有提交者採用內部提名程序，在發出邀請前必須達成懶人共識 (沉默表示同意)。如果您覺得自己符合資格並想要更深入參與，歡迎與現有提交者聯絡，與他們討論這件事。
+我們非常喜歡來自社群的貢獻！如果您不想只擔任貢獻者，而是想成為具備完整寫入存取權和專案發言權的提交者，則必須獲邀加入專案。現有提交者採內部提名流程進行，在發出邀請前必須達成被動共識 (沉默即表示同意)。如果您覺得自己符合資格並想要更深入參與，歡迎與現有提交者聯絡，與他們討論。
 
 ## 安全性問題
 
-您不應在此問題追蹤上回報安全性問題。請改[向我們的安全性專家提出問題](https://helpx.adobe.com/tw/security/alertus.html)
+您不應在此問題追蹤上回報安全性問題。請改為[向我們的安全性專家提出問題](https://helpx.adobe.com/tw/security/alertus.html)
